@@ -38,4 +38,4 @@ You can follow thesesteps if you want to use .sh scripts.<br>
       (replace the word 'file' in the last command by corresponding .py file name)<br>
    Now you will get the corresponding csv files (which are asked in the questions to get and prsent in 'Result CSVs' folder) in your folder.<br>
 
-There is a requirements.txt file attched. If needed, you can ue that.
+There is a requirements.txt file attched. If needed, you can use that.
